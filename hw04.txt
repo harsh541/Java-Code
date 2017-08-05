@@ -1,0 +1,53 @@
+Harsh Patel
+hrpatel@bu.edu
+hw04
+July 17, 2017
+
+
+1) 
+ +   +
+ | 7 |
+ | 9 |
+ | 2 |
+ | 8 |
+ | 1 |
+ | 3 |	
+ | 7 |
+-+---+-
+
+2) 
+
++---------------+
+| 3 | 9 | 3 | 8 |
++————————————-——+
+
+3) 
+
++——————————————————————-+
+| 1 | 2 | 3 | 4 | 5 | 6 |
++——————————————————————-+
+
+4) a) Yes, can occur by pushing 0 - 9 then pop all of them off.
+   b) Yes can occur by pushing 0- 8, then push 9 and pop just the 9.
+   c) Yes by pushing 0-4, then push/pop 5-9.
+   d) No because not in order!
+
+5) a) Yes can occur by inserting 0-9
+   b) Yes can occur by insert and max
+   c) Yes just insert the numbers
+   d) No does not work
+
+6) No because 0-9 has to be inserted in order.
+
+7) It’s reverses everything.
+
+8) It does nothing, takes it out and puts it back in.
+
+9) Descending order from big to small.
+
+10) 
+
+F
+i
+Folks
+Hithere

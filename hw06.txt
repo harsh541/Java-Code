@@ -1,0 +1,52 @@
+Harsh Patel
+hrpatel@bu.edu
+hw06
+July 27, 2017
+
+Problem 1)
+
+a) 11
+b) 3
+c) 3
+d) 3
+e) 5, 10, 17, 31, 49
+
+
+Problem 2) 
+
+a) 11, 6, 4, 5, 8, 7, 10, 19, 17, 15, 12, 13, 16, 43, 31, 49 Preorder Traversal
+
+				
+
+b) Any key between 20 and 30, inclusive
+
+
+Problem 3)
+a) if we use the method to delete the roots 3 times we will end up with. You will delete 11, 6, and 4
+b) You will delete 19, 17, 43, and 31 using the case right, left, right, left.
+
+
+
+Problem 4)
+a) H = BigO(Log N)
+b) N = 2^(H+1) - 1
+
+
+Problem 5)
+a)
+
+ 1- c, b, a, d
+ 2- d, c, a, b
+ 3- d, a, c, b
+ 4- d, c, b, a
+ 5- a, d, b, c
+
+
+b)
+
+  	
+ 1- D, B, F, A, C, E, G.
+ 2- D, B, F, A, G, E, C.
+ 3- F, E, D, A, C, B, G.
+ 4- A, C, F, D, B, E, G.
+ 5- B, D, F, A, C, G, E.

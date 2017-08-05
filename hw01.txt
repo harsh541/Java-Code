@@ -1,0 +1,42 @@
+Harsh Patel
+
+Part A: Analytical Problems (20 pts)
+
+1)
+	a)log2(2) = 1
+	b) log2(1024) = 10
+	c) log2(1000) = 9.966..Rounded
+	d) floor(log2(1000)) = 9
+	e) ceiling(log2(1000)) = 10
+
+2) Powers of 2, for example  N has to be 1, 2, 4, 8, 16…
+3) Not powers of 2 because the left side is always greater than 1
+4) 
+	a) a = b
+	b) a < b since the statement is True
+	c) a > b since the statement is False
+	d) a <= b 
+	e) a > b since we know that b < b is not True
+
+5)
+	a) True, will print 54
+	b) Error, can’t use * with double and string
+	c) True, will print hi5ttruethere
+
+6)
+	a) 2bc
+	b) 5bc
+	c) 5bc
+	d) bc5
+	e) bc23
+
+7) Assume that we always go left, then the numbers 2, 12, 25, and 45 will all take three comparisons to find.
+
+8) To find the unsuccessful number 1 it would take at least 3 searches to know that it’s not there.
+   To find the unsuccessful number 100 it would take at least 4 searches to know that it’s not there.
+
+   Thus, after three or four searches we will know that a statement won’t be true.
+
+9) 1 + 3 + 5 + 6 + 9 = 24 then divide by 5 =   4.8 average tries.
+
+10) 1 + 3 + 2 + 4 + 8 = 18 then divide by 10 = 1.8 average tries.

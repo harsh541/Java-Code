@@ -1,0 +1,43 @@
+Harsh Patel
+
+Part A: Analytical Problems
+
+1) 
+	Line 1: the “P” in public should be lower case
+	Line 2: In “( x )” it needs to have a type, for example “(int x)” and integer should be int.
+	Line 6: needs “}” to close entire function
+	Line 7: should be, public static void main(String[] argv) {
+	Line 8: unnecessary “{“
+	Line 9: needs to be System.out.println(“Hello World!”);
+	Line 11: get rid of ) and put } to end the entire program.
+
+
+2) 	
+	This program will print 3.0 then infinity 10’s
+
+3)
+	Will print:
+
+	1
+	2
+	4
+	8
+
+4)
+	Will print:
+	
+	2
+	2
+	6
+	4
+	5
+	6
+
+5)
+	A) 1-9
+	B) 2-9
+	C) 2-9
+	D) 4-8
+	E) 4-7
+	F) 5-9
+	G) 1-9
